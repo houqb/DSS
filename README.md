@@ -9,6 +9,11 @@ Please install [Caffe](https://github.com/BVLC/caffe) first. I think you may fin
 cd <caffe_root>/examples
 git clone https://github.com/Andrew-Qibin/DSS.git
 ```
+Before you start, you also need our pretrained model.
+```bash
+wget
+```
+If you want to train the model, please prepare your own training dataset first.
 
 ### Visual comparison with previous start-of-the-arts
 ![](https://github.com/Andrew-Qibin/DSS/blob/master/Compares.png)
