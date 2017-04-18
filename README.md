@@ -7,9 +7,9 @@ Please refer to [our paper](https://arxiv.org/abs/1611.04849).
 ```latex
 @article{hou2016deeply,
   title={Deeply supervised salient object detection with short connections},
-  author={Hou, Qibin and Cheng, Ming-Ming and Hu, Xiao-Wei and Borji, Ali and Tu, Zhuowen and Torr, Philip},
-  journal={arXiv preprint arXiv:1611.04849},
-  year={2016}
+  author={Hou, Qibin and Cheng, Ming-Ming and Hu, Xiaowei and Borji, Ali and Tu, Zhuowen and Torr, Philip},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  year={2017}
 }
 ```
 
