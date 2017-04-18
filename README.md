@@ -24,6 +24,11 @@ ipython notebook DSS-tutorial.ipynb
 ![](https://github.com/Andrew-Qibin/DSS/blob/master/Compares.png)
 From left to right: Source, Groundtruth, Ours, DCL, DHS, RFCN, DS, MDF, ELD, MC, DRFI, DSR.
 
+### Useful links that you might want
+* [MSRAB](https://people.cs.umass.edu/~hzjiang/drfi/index.html): including 2500 training, 500 validation, and 2000 test images. (This is also our training set.)
+* [MSRA10K](http://mmcheng.net/msra10k/) You can also use this dataset for training as some works did.
+* [Evaluation Code](https://github.com/MingMingCheng/CmCode/tree/master/CmLib/Illustration) The cold is based on MS Visual Studio.
+
 ### If you think this work is helpful, please cite
 ```latex
 @article{hou2016deeply,
