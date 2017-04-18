@@ -13,7 +13,10 @@ Before you start, you also need our pretrained model.
 ```bash
 wget http://mftp.mmcheng.net/Andrew/dss_model_released.caffemodel
 ```
-If you want to train the model, please prepare your own training dataset first. The data layer we used here is similar to the one used in [HED](https://github.com/s9xie/hed). You can also refer to the data layer used in [Deeplab](https://bitbucket.org/aquariusjay/deeplab-public-ver2) or write your own one.
+If you want to train the model, please prepare your own training dataset first. The data layer we used here is similar to the one used in [HED](https://github.com/s9xie/hed). You can also refer to the data layer used in [Deeplab](https://bitbucket.org/aquariusjay/deeplab-public-ver2) or write your own one. Then, run
+```bash
+python run_saliency.py
+```
 
 If you want to test the model, you can run
 ```bash
