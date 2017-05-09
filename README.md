@@ -1,7 +1,6 @@
 ## Deeply Supervised Salient Object Detection with Short Connections
 
 ### Network architecture and more details
-![](https://github.com/Andrew-Qibin/DSS/blob/master/multi_arch.pdf)
 Please refer to [our paper](https://arxiv.org/abs/1611.04849).
 
 ### Usage
@@ -31,7 +30,8 @@ From left to right: Source, Groundtruth, Ours, DCL, DHS, RFCN, DS, MDF, ELD, MC,
 ### Useful links that you might want
 * [MSRAB](https://people.cs.umass.edu/~hzjiang/drfi/index.html): including 2500 training, 500 validation, and 2000 test images. (This is also our training set.)
 * [MSRA10K](http://mmcheng.net/msra10k/): You can also use this dataset for training as some works did.
-* [Evaluation Code](https://github.com/MingMingCheng/CmCode/tree/master/CmLib/Illustration): The cold is based on MS Visual Studio.
+* [Evaluation Code (Windows)](https://github.com/MingMingCheng/CmCode/tree/master/CmLib/Illustration): The cold is based on MS Visual Studio.
+* [Evaluation Code (Ubuntu)](https://github.com/Andrew-Qibin/SalMetric): This code is based on C++ and with a python wrapper for python users.
 
 ### If you think this work is helpful, please cite
 ```latex
