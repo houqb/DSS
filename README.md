@@ -27,7 +27,9 @@ python run_saliency.py
 If you want to test the model, you can run
 ```bash
 ipython notebook DSS-tutorial.ipynb
-```
+```  
+
+About the CRF code we used, you can find it [here](https://github.com/Andrew-Qibin/dss_crf). Notice that please provide a link to the original code as a footnote or a citation if you plan to use it.
 
 ### Visual comparison with previous start-of-the-arts
 ![](https://github.com/Andrew-Qibin/DSS/blob/master/Compares.png)
