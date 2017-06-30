@@ -17,7 +17,7 @@ You can also download it from [here (google drive)](https://drive.google.com/fil
 
 If you want to train the model, please prepare your own training dataset first. The data layer we used here is similar to the one used in [HED](https://github.com/s9xie/hed). You can also refer to the data layer used in [Deeplab](https://bitbucket.org/aquariusjay/deeplab-public-ver2) or write your own one. 
 
-You may also find our data layer [here](https://github.com/Andrew-Qibin/caffe_dss).
+You may also find our data layer [here](https://github.com/Andrew-Qibin/caffe_dss). Notice that if you use caffe, please cite their paper.
 
 Then, run
 ```bash
