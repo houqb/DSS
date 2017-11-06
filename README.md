@@ -41,6 +41,8 @@ From left to right: Source, Groundtruth, Ours, DCL, DHS, RFCN, DS, MDF, ELD, MC,
 * [Evaluation Code (Windows)](https://github.com/MingMingCheng/CmCode/tree/master/CmLib/Illustration): The cold is based on MS Visual Studio.
 * [Evaluation Code (Ubuntu)](https://github.com/Andrew-Qibin/SalMetric): This code is based on C++ and with a python wrapper for python users.
 
+### If you want to compare your results with ours, you may download them from here [(baidu drive)](https://pan.baidu.com/s/1o8r90Ga).
+
 ### If you think this work is helpful, please cite
 ```latex
 @article{hou2016deeply,
