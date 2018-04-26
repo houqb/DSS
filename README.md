@@ -1,5 +1,9 @@
 ## Deeply Supervised Salient Object Detection with Short Connections
 
+### What's new!
+We add the resnet version of our model into this repo. Also, a larger set of training data can be found in the
+lists dir.
+
 ### Network architecture and more details
 Please refer to [our paper](https://arxiv.org/abs/1611.04849).
 
@@ -14,6 +18,8 @@ Before you start, you also need our pretrained model.
 wget http://mftp.mmcheng.net/Andrew/dss_model_released.caffemodel
 ```
 You can also download it from [here (google drive)](https://drive.google.com/file/d/0B21WWgRw0U1uMFVKN3NPT0VHMW8/view?usp=sharing). The results produced by this model are slightly different from the ones we reported in our paper (with higher F-measure score and also higher MAE score).
+
+ResNet version caffemodel can be found [here (google drive)](https://drive.google.com/open?id=1psapbqiKkVQQNL_uUC9Mv2Hfio5m0TKS).
 
 If you want to train the model, please prepare your own training dataset first. The data layer we used here is similar to the one used in [HED](https://github.com/s9xie/hed). You can also refer to the data layer used in [Deeplab](https://bitbucket.org/aquariusjay/deeplab-public-ver2) or write your own one. 
 
