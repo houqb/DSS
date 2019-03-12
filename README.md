@@ -50,10 +50,10 @@ From left to right: Source, Groundtruth, Ours, DCL, DHS, RFCN, DS, MDF, ELD, MC,
 
 ### If you think this work is helpful, please cite
 ```latex
-@article{hou2016deeply,
-  title={Deeply supervised salient object detection with short connections},
-  author={Hou, Qibin and Cheng, Ming-Ming and Hu, Xiaowei and Borji, Ali and Tu, Zhuowen and Torr, Philip},
-  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
-  year={2017}
+@article{hou2019deeply,
+  title={Deeply Supervised Salient Object Detection with Short Connections.},
+  author={Hou, Qibin and Cheng, Ming-Ming and Hu, Xiaowei and Borji, Ali and Tu, Zhuowen and Torr, Philip HS},
+  journal={IEEE transactions on pattern analysis and machine intelligence},
+  year={2019}
 }
 ```
