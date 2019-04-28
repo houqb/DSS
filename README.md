@@ -4,6 +4,8 @@
 We add the resnet version of our model into this repo. Also, a larger set of training data can be found in the
 lists dir. ResNet version caffemodel can be found [here (google drive)](https://drive.google.com/open?id=1psapbqiKkVQQNL_uUC9Mv2Hfio5m0TKS).
 
+A new fast approach is now available.
+
 ### Network architecture and more details
 Please refer to [our paper](https://arxiv.org/abs/1611.04849).
 
