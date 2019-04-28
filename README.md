@@ -4,7 +4,8 @@
 We add the resnet version of our model into this repo. Also, a larger set of training data can be found in the
 lists dir. ResNet version caffemodel can be found [here (google drive)](https://drive.google.com/open?id=1psapbqiKkVQQNL_uUC9Mv2Hfio5m0TKS).
 
-A new fast approach is now available.
+A new fast approach is now available. [Here](https://github.com/Andrew-Qibin/PoolNet) is the PyTorch implementation.
+[Here](https://mmcheng.net/poolnet/) is the link to the project page.
 
 ### Network architecture and more details
 Please refer to [our paper](https://arxiv.org/abs/1611.04849).
@@ -52,10 +53,14 @@ From left to right: Source, Groundtruth, Ours, DCL, DHS, RFCN, DS, MDF, ELD, MC,
 
 ### If you think this work is helpful, please cite
 ```latex
-@article{hou2019deeply,
-  title={Deeply Supervised Salient Object Detection with Short Connections.},
-  author={Hou, Qibin and Cheng, Ming-Ming and Hu, Xiaowei and Borji, Ali and Tu, Zhuowen and Torr, Philip HS},
-  journal={IEEE transactions on pattern analysis and machine intelligence},
-  year={2019}
+@article{HouPami19Dss,
+  title={Deeply Supervised Salient Object Detection with Short Connections},
+  author={Hou, Qibin and Cheng, Ming-Ming and Hu, Xiaowei and Borji, Ali and Tu, Zhuowen and Torr, Philip},
+  year  = {2019},
+  volume={41}, 
+  number={4}, 
+  pages={815-828}, 
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}
 }
+
 ```
