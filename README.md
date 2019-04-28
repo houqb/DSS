@@ -1,8 +1,6 @@
 ## Deeply Supervised Salient Object Detection with Short Connections
 
-## What's new!
-We add the resnet version of our model into this repo. Also, a larger set of training data can be found in the
-lists dir. ResNet version caffemodel can be found [here (google drive)](https://drive.google.com/open?id=1psapbqiKkVQQNL_uUC9Mv2Hfio5m0TKS).
+## What's new!!!
 
 A new fast approach is now available. [Here](https://github.com/Andrew-Qibin/PoolNet) is the PyTorch implementation.
 [Here](https://mmcheng.net/poolnet/) is the link to the project page.
@@ -48,6 +46,9 @@ From left to right: Source, Groundtruth, Ours, DCL, DHS, RFCN, DS, MDF, ELD, MC,
 * [MSRA10K](http://mmcheng.net/msra10k/): You can also use this dataset for training as some works did.
 * [Evaluation Code (Windows)](https://github.com/MingMingCheng/CmCode/tree/master/CmLib/Illustration): The cold is based on MS Visual Studio.
 * [Evaluation Code (Ubuntu)](https://github.com/Andrew-Qibin/SalMetric): This code is based on C++ and with a python wrapper for python users.
+
+We add the resnet version of our model into this repo. Also, a larger set of training data can be found in the
+lists dir. ResNet version caffemodel can be found [here (google drive)](https://drive.google.com/open?id=1psapbqiKkVQQNL_uUC9Mv2Hfio5m0TKS).
 
 ### If you want to compare your results with ours, you may download them from here [(Baidu Drive)](https://pan.baidu.com/s/1o8r90Ga) or [(Google Drive)](https://drive.google.com/open?id=1ppil6z-JzjMoSd4faZgAjTWT_Zya4td5).
 
